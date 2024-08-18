@@ -29,6 +29,30 @@
   - ثغرات SQL Injection (حقن قواعد البيانات)
   - ثغرات XSS (البرمجة عبر المواقع)
 
+## Supported Systems | الأنظمة المدعومة
+
+The script is designed to work on the following systems:
+
+- **Linux** (All major distributions):
+  - Ubuntu
+  - Debian
+  - CentOS
+  - Fedora
+  - AlmaLinux
+  - Red Hat Enterprise Linux (RHEL)
+  - Arch Linux
+  
+- **macOS** (All recent versions)
+
+- **Unix-based systems**:
+  - FreeBSD
+  - OpenBSD
+  - NetBSD
+  - Solaris
+
+- **Windows** (Using WSL - Windows Subsystem for Linux)
+
+
 ## Installation | التثبيت
 
 To install and run the Rakan-SecurityGate script on your server, follow these steps:
