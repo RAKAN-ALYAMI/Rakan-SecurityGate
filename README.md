@@ -114,4 +114,4 @@ For any inquiries or support, please contact:
 
 - **Author | المؤلف:** Rakan Alyami
 - **Email | البريد الإلكتروني:** rakan7777@gmail.com
-- **Telegram:** [@r7000](https://t.me/r7000)
+- **Telegram:** https://t.me/r7000r
